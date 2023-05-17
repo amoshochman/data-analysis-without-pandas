@@ -1,7 +1,7 @@
 # data-analysis-without-pandas
-###Statistics computing over datasets done by pure Python data structures
+### Statistics computing over datasets done by pure Python data structures
 
-####Instructions to use:
+#### Instructions to use:
 
 create in the root directory the following files, all of them with suffix ".csv": 
 
